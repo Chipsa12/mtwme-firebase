@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mtwme-firebase/static/css/main.841f2cf5.css",
+    "main.js": "/mtwme-firebase/static/js/main.2957c74f.js",
+    "index.html": "/mtwme-firebase/index.html",
+    "main.841f2cf5.css.map": "/mtwme-firebase/static/css/main.841f2cf5.css.map",
+    "main.2957c74f.js.map": "/mtwme-firebase/static/js/main.2957c74f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.841f2cf5.css",
+    "static/js/main.2957c74f.js"
+  ]
+}
