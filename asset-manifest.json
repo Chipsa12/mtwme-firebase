@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mtwme-firebase/static/css/main.1eecb23a.css",
-    "main.js": "/mtwme-firebase/static/js/main.6157aa4e.js",
+    "main.js": "/mtwme-firebase/static/js/main.3b9d1037.js",
     "index.html": "/mtwme-firebase/index.html",
     "main.1eecb23a.css.map": "/mtwme-firebase/static/css/main.1eecb23a.css.map",
-    "main.6157aa4e.js.map": "/mtwme-firebase/static/js/main.6157aa4e.js.map"
+    "main.3b9d1037.js.map": "/mtwme-firebase/static/js/main.3b9d1037.js.map"
   },
   "entrypoints": [
     "static/css/main.1eecb23a.css",
-    "static/js/main.6157aa4e.js"
+    "static/js/main.3b9d1037.js"
   ]
 }
